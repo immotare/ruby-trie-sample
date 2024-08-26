@@ -1,0 +1,11 @@
+Style/FrozenStringLiteralComment:
+  Enabled: false
+
+Documentation:
+  Enabled: false
+
+Metrics/MethodLength:
+  Enabled: false
+
+Layout/TrailingEmptyLines:
+  Enabled: false
